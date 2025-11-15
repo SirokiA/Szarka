@@ -59,28 +59,28 @@ h1,h2 {
 }
 
 .table-style {
-    width: 500px;              /* táblázat szélessége */
-    margin: 0 auto;            /* középre igazítás */
-    border-collapse: separate; /* cellaköz kezelése */
-    border-spacing: 6px;       /* cellaköz */
-    border: none;              /* nincs külső keret */
+    width: 500px;              
+    margin: 0 auto;            
+    border-collapse: separate; 
+    border-spacing: 6px;       
+    border: none;              
 }
 
 .table-style td {
     padding: 6px; 
-    border: none;             /* cellamargó */
+    border: none;             
 }
 
 .table-style td:first-child {
-    width: 240px;              /* első oszlop szélessége */
+    width: 240px;              
 }
 .table-style h2 {
-    background-color: #DC143C; /* vörös háttér */
-    color: #F0F8FF;            /* világoskék betűszín */
-    margin: 0;                 /* belső margó eltávolítása */
-    padding: 4px 8px;          /* opcionális belső tér */
+    background-color: #DC143C; 
+    color: #F0F8FF;            
+    margin: 0;                 
+    padding: 4px 8px;          
     font-size: 1.2em;  
-    text-align: center;        /* méret tetszés szerint */
+    text-align: center;        
 }
 
 .td-jobbra{
