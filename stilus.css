@@ -8,3 +8,52 @@ p {
 h1,h2 {
     color: #DC143C;
 }
+.cimkep{
+    text-align: center;
+}
+#vonal{
+
+    width: 70%;
+    margin-top: 20px;
+}
+
+  .kozep-tablazat {
+    width: 400px;
+    margin: 0 auto;        
+    border-collapse: collapse;
+    border: none;          
+  }
+
+  
+  .kozep-tablazat td {
+    border: none;
+    padding: 8px;           
+    vertical-align: middle; 
+  }
+
+  
+  .kozep-tablazat img {
+    display: block;
+    max-width: 230px;
+    height: 153px;
+  }
+
+  
+  .link-cell {
+    text-align: left;       
+    padding-left: 12px;
+  }
+
+
+.kep {
+    border: 1px solid black; 
+}
+
+
+.jobbra-kep {
+    float: right;            
+    width: 230px;
+    height: 153px;
+    margin-left: 12px;       
+    margin-bottom: 12px;    
+}
